@@ -10,8 +10,8 @@ This project aims to find all the details about the diamond dataset and what pos
 
 ## Explain the techniques used in the project:
 - Data Cleaning
-  *In this step, I removed:
-    *Unecessary column
-    *Duplicated rows
-    *Inappropriate values
-  *I also used the MICE method to impute the missing values of the dataset
+ Markup: *In this step, I removed:
+           *Unecessary column
+           *Duplicated rows
+           *Inappropriate values
+         *I also used the MICE method to impute the missing values of the dataset
