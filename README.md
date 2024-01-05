@@ -23,12 +23,12 @@ Univariate Analysis
     - **With categorical variables**: I drew pie charts and bar charts to acknowledge their most common values and the corresponding percentages
 
 Hypothesis Testing
-    - I utilized the Chi-square test to test the correlation between categorical variables
-    - I utilized the One-way ANOVA test to test the correlation between a categorical variable and a numeric variable
-    - I utilized the Two-wat ANOVA test to test the correlation between the numeric independent variable and other categorical dependent variables
+- I utilized the Chi-square test to test the correlation between categorical variables
+- I utilized the One-way ANOVA test to test the correlation between a categorical variable and a numeric variable
+- I utilized the Two-wat ANOVA test to test the correlation between the numeric independent variable and other categorical dependent variables
 
 Bivariate and Multivariate
-    - I visualized my testing results using stacked bars, grouped bars, and scatter plots
+- I visualized my testing results using stacked bars, grouped bars, and scatter plots
 
 Diamond's Price Prediction using Random Forest
 - I combined the columns that are highly correlated with each other into one column to avoid multicollinearity
