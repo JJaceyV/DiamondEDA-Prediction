@@ -19,5 +19,5 @@ Data Cleaning
 
 Univariate Analysis
 - In this step, I divided the variables into numeric and categorical variables.
-      - With numeric variables, I drew the boxplot, histogram, and qq-plot to have an overview of their distributions
-      - With categorical variables, I drew pie charts and bar charts to acknowledge their most common values and the corresponding percentages
+        - With numeric variables, I drew the boxplot, histogram, and qq-plot to have an overview of their distributions
+        - With categorical variables, I drew pie charts and bar charts to acknowledge their most common values and the corresponding percentages
